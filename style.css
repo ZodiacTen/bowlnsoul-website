@@ -166,3 +166,18 @@ body {
     font-size: 1.1rem;
   }
 }
+
+.story-page .content {
+  max-width: 900px;
+  margin: auto;
+  padding: 3rem 2rem;
+  font-size: 1.05rem;
+  color: #444;
+  line-height: 1.8;
+}
+
+.story-page h2 {
+  color: #e63946;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
